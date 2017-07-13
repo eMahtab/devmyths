@@ -1,0 +1,22 @@
+{
+  "name": "devmyths",
+  "version": "1.0.0",
+  "description": "Debunks myths about devs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eMahtab/devmyths.git"
+  },
+  "author": "Mahtab Alam <alammahtab08@gmail.com> (http://www.mahtabalam.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eMahtab/devmyths/issues"
+  },
+  "homepage": "https://github.com/eMahtab/devmyths#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
