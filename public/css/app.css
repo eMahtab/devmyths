@@ -13,6 +13,17 @@ a{
     text-decoration: none;
 }
 
+.footer-link{
+	color:yellow;
+}
+#footer-signature{
+	text-align:left;
+	font-size:17px;
+	color:white;
+	position: absolute; 
+	bottom: 15%; 
+}
+
 body{
 	font-family: Constantia, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
 	background: yellow;

@@ -1,2 +1,2 @@
 # devmyths
-A one page website that debunks all the myths about devs.
+A one page website that debunks some of the myths about devs.
